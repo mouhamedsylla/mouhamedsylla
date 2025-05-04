@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mouhamed SYLLA</h2>
-<h2 align="left">I'm a apprentice fullstack developer, from Senegal</h2>
+<h2 align="left">I'm a fullstack developer, from Senegal</h2>
 
 ###
 
